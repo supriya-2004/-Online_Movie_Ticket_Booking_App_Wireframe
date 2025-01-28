@@ -1,4 +1,4 @@
-# Movie_App_Wireframe 🎥
+# Online Movie Ticket Booking App Wireframe 🎥
 ## Welcome to the Movie App Prototype repository – where ideas come to life through design! This repository features a meticulously crafted wireframe for a movie-centric mobile application, developed using Figma.
 
 ## About the App
