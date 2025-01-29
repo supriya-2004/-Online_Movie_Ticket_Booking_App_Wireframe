@@ -50,6 +50,6 @@
 #### Provide contact details and select a payment method.
 #### Complete the booking process.
 
-### 🔗Explore the interactive prototype on Figma: 
+### 🔗Explore the interactive wireframe on Figma: 
 https://www.figma.com/proto/Spw7wv9vkQMrR4LhxIssoO/Movie_App_Wireframe?node-id=4-117&p=f&t=FF5ci4fihhPfgeo0-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A77
 ### This link allows you to navigate through the app's wireframe to understand its flow and design in detail.
